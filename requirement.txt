@@ -1,0 +1,7 @@
+numpy
+pandas
+joblib
+django
+sklearn
+matplotlib
+jupyter-notebook
